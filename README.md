@@ -196,7 +196,9 @@ This class produces objects that love to dance.
 This class produces objects that love to dance.
 ```
 
-Run the tests to make sure some of your tests are passing.
+**Note** Run the `learn` command to pass all the local tests at this point. In
+the following section, we will be altering the methods in such a way that the
+RSpec tests will no longer be valid from this point on.
 
 ## Code Along III: Nested Modules
 
